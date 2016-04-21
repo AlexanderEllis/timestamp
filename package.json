@@ -5,7 +5,7 @@
   "engines": {
     "node": "5.9.1"
   },
-  "main": "index.html",
+  "main": "index.js",
   
   "dependencies": {
     "ejs": "2.4.1",
